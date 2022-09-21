@@ -1,0 +1,9 @@
+﻿  FileMd5.cpp
+C:\Users\92924\Desktop\文件查重v1.0\源码\RepeatFileCheck\FileMd5.cpp(252,42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\92924\Desktop\文件查重v1.0\源码\RepeatFileCheck\FileMd5.cpp(239,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\92924\Desktop\文件查重v1.0\源码\RepeatFileCheck\FileMd5.cpp(270,4): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\92924\Desktop\文件查重v1.0\源码\RepeatFileCheck\FileMd5.cpp(277,4): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  源.cpp
+C:\Users\92924\Desktop\文件查重v1.0\源码\RepeatFileCheck\源.cpp(27,25): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+C:\Users\92924\Desktop\文件查重v1.0\源码\RepeatFileCheck\源.cpp(77,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
